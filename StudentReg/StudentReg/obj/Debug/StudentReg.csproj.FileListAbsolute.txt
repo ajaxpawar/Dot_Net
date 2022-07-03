@@ -1,0 +1,10 @@
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\bin\Debug\StudentReg.exe.config
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\bin\Debug\StudentReg.exe
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\bin\Debug\StudentReg.pdb
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\obj\Debug\StudentReg.csproj.AssemblyReference.cache
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\obj\Debug\StudentReg.Form1.resources
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\obj\Debug\StudentReg.Properties.Resources.resources
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\obj\Debug\StudentReg.csproj.GenerateResource.cache
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\obj\Debug\StudentReg.csproj.CoreCompileInputs.cache
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\obj\Debug\StudentReg.exe
+C:\Users\ajayp\source\repos\StudentReg\StudentReg\obj\Debug\StudentReg.pdb
